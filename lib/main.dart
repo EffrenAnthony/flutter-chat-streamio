@@ -17,7 +17,10 @@ class _MyAppState extends State<MyApp> {
 
   @override
   void initState() {
-    _client = Client('he746td8zaht', logLevel: Level.INFO);
+    _client = Client(
+      'API-KEY',
+      logLevel: Level.INFO,
+    );
     super.initState();
   }
 

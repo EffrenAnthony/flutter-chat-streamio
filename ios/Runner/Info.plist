@@ -55,5 +55,11 @@
 		<key>NSAllowsArbitraryLoads</key>
 		<true/>
 	</dict>
+	<key>NSCameraUsageDescription</key>
+	<string>To capture profile photo please grant camera access</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>To capture profile photo please grant micro access</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>To capture profile photo please grant photo library access</string>
 </dict>
 </plist>
