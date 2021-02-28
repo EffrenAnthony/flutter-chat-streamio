@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+## WARNING API-KEY AVAILABLE UNTIL MARCH 25TH
+
+Look at https://getstream.io/chat/flutter/tutorial/ to get your own api-key
 ## Getting Started
 
 This project is a starting point for a Flutter application.
